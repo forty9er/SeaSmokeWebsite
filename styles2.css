@@ -1,0 +1,138 @@
+@charset "utf-8";
+ * {
+    box-sizing: border-box;
+} 
+body {
+    background-color: #780e0e;
+    font-family: Arial, Tahoma, sans-serif;
+    color: #000000;
+}
+h1 {
+    color: #ffffff;
+}
+header {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 20px;
+    width: 80%;
+    margin: auto;
+}
+.container {
+    width: 100%;
+}
+main {
+    width: 80%;
+    background-color: #ffffff;
+    float: left;
+    padding: 20px 50px;
+    margin-left: 10%;
+    font-size: 1em;
+    line-height: 2em;
+}
+img {
+    max-width: 100%;
+}
+p {
+    clear: both;
+}
+footer {
+    clear: both;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    margin-left: 10%;
+    padding: 5px;
+    font-size: 10pt;
+    width: 80%; 
+}
+footer a {
+    color:#ffffff;
+}
+nav {
+    color: #000000;
+    padding: 5px;
+    text-align: center;
+    width: 80%; 
+    margin-left: 13.6%;
+    font-weight: bold;
+}
+nav ul {
+    list-style: none;
+    margin: auto;
+}
+nav ul li {
+    float: left;
+    margin: auto;
+    padding: 5px;
+}
+nav ul li a:link, nav ul li a:visited {
+    display: block;
+    width: 150px;
+    margin-right: 4px;
+    color: #000000;
+    padding: 2px 4px 2px 4px;
+    background-color: #ffffff;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    color:#ffffff;
+    background-color: #000000;
+}
+#menu-table {
+    background-color: #d3d3d3;
+    text-align: center;
+    padding: 5px 10px 5px 10px;
+    width: 100%;
+}
+.bold-text {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16pt;
+}
+.small-text-right {
+    margin-left: 20%;
+    font-size: 0.75em;
+}
+.center {
+    text-align: center;
+}
+.left {
+    text-align: left;
+    margin-left: 16.4%;
+}
+.center-clear-both {
+    text-align: center;
+    clear: both;
+}
+.smokey-bio {
+    width: 600px;
+    float: left;
+    margin-left: 7%;
+}
+.portrait-right {
+    float: right;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+#wood-smoke-table {
+    max-width: 100%;
+    margin-left: 5%;
+}
+.faq {
+    float: left;
+    width: 60%;
+}
+.spice-recipe {
+    float: right;
+    margin-top: 45px;
+    margin-right: 5%;
+    width: 400px;
+    line-height: 3em;
+}
+.bold-centered {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;      
+}          
+
