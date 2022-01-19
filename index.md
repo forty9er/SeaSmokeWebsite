@@ -1,4 +1,4 @@
-<link href="styles2.css" rel="stylesheet"></link>
+
 
 [![Sea Smoke BBQ Logo](images/logo.jpg)](index.html)
 
