@@ -16,7 +16,7 @@ Welcome to Sea Smoke Roadside BBQ
 
 Sea Smoke Roadside welcomes friends and family alike to join us for some tasty BBQ! Bring'n _Cali Style_ to the Jersey Shore! We are open daily from 11a-9p and closed on major holidays. We are located right off County Road 515 and Oak St. in Shoreville, New Jersey.
 
-We offer seasonal lunch and dinner meals and a wide variety of craft beers and local wines for customers 21+ to enjoy. Also, make sure you check out our Special Events page for the latest information about community fundraisers, beer/winemaker dinners, live music, and much more! Please take a minute to review our seasonal menu below. Some items may change due to availability.
+Also, make sure you check out our Special Events page for the latest information about community fundraisers, live music, beer/winemaker dinners and much more! Please take a minute to review our seasonal menu below.
 
 [![Sea Smoke Winter 2020 Menu](images/menu.jpg)](images/menu.jpg)
 
