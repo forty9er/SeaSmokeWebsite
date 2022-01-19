@@ -1,5 +1,3 @@
-
-
 [![Sea Smoke BBQ Logo](images/logo.jpg)](index.html)
 
 Welcome to Sea Smoke Roadside BBQ!
