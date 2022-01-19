@@ -3,13 +3,13 @@
 Welcome to Sea Smoke Roadside BBQ!
 ==================================
 
-*   [Home Page](index.html)
-*   [Menu Page](menu.html)
-*   [About Us Page](aboutus.html)
-*   [History Page](history.html)
-*   [Contact Us](contactus.html)
-*   [Our Chef](chef.html)
-*   [BBQ 101](bbq101.html)
+[Home Page](index.html)
+[Menu Page](menu.html)
+[About Us Page](aboutus.html)
+[History Page](history.html)
+[Contact Us](contactus.html)
+[Our Chef](chef.html)
+[BBQ 101](bbq101.html)
 
 Welcome to Sea Smoke Roadside BBQ
 ---------------------------------
@@ -23,4 +23,10 @@ Also, make sure you check out our Special Events page for the latest information
 123 Oak Street, Shoreville, New Jersey | (732) 456-7890 | info@seasmokebbq.com  
 Sea Smoke Roadside BBQ© 2020
 
-[Home Page |](index.html) [Menu Page |](menu.html) [About Us Page |](aboutus.html) [History Page |](history.html) [Contact Us |](contactus.html) [Our Chef |](chef.html) [New Page](newPage.html)
+[Home Page](index.html)
+[Menu Page](menu.html)
+[About Us Page](aboutus.html)
+[History Page](history.html)
+[Contact Us](contactus.html)
+[Our Chef](chef.html)
+[BBQ 101](bbq101.html)
