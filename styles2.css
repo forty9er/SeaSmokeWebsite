@@ -3,6 +3,7 @@
     box-sizing: border-box;
 } 
 body {
+    background-image: url(images/solid-wood.jpg);
     background-color: #780e0e;
     font-family: Arial, Tahoma, sans-serif;
     color: #000000;
