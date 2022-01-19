@@ -18,10 +18,10 @@ Sea Smoke Roadside welcomes friends and family alike to join us for some tasty B
 
 Also, make sure you check out our Special Events page for the latest information about community fundraisers, live music, beer/winemaker dinners and much more! Please take a minute to review our seasonal menu below.
 
-[![Sea Smoke Winter 2020 Menu](images/menu.jpg)](images/menu.jpg)
+[![Sea Smoke Winter 2022 Menu](images/menu.jpg)](images/menu.jpg)
 
-123 Oak Street, Shoreville, New Jersey | (732) 456-7890 | info@seasmokebbq.com  
-Sea Smoke Roadside BBQ© 2020
+123 Oak Street, Some City, Some State | (xxx) xxx-7890 | info@seasmoke.com  
+Sea Smoke 2022
 
 [Home Page](index.html)
 [Menu Page](menu.html)
