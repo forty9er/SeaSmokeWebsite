@@ -1,0 +1,165 @@
+<!doctype html>
+<html>
+    
+    <head>
+        
+        <title>
+            Sea Smoke Contact Us
+        </title>
+        
+            <link rel="stylesheet" type="text/css" href="styles.css">
+            
+                <style type="text/css">
+                    form {
+                    width: 90%; 
+                    background-color: #d0d0d0; 
+                    font-size: 12pt;
+                    color: #000000; 
+                    margin: auto;
+                    padding: 20px; 
+                    }
+                    fieldset {
+                    width: 550px;
+                    margin: auto;
+                    }
+                    textarea {
+                    border: none;
+                    padding: 0;
+                    }
+                    fieldset, legend, textarea, input{
+                    background-color: #000000;
+                    color: #00ff00;
+                    border-color: #00ff00;
+                    border-radius: 5px;
+                    }
+                    select, input {
+                    margin: 20px;
+                    }
+                    input[type=submit] {
+                    margin-left: 45%;
+                    padding: 5px 25px;
+                    text-align: center;
+                    display: block;
+                    }
+                    input[type=checkbox], input[type=radio], select, input[type=number], button {
+                    background-color: #191970;
+                    color: #ffffff;
+                    border-radius: 5px;
+                    }
+                    .margin-right {
+                        margin: 0 20px 0 0;
+                    }
+                </style>
+        
+    </head>
+    
+<body>
+    
+    <header>
+        <a href="index2.html">
+            <img src="images/logo.png" class="left-logo" alt="Sea Smoke BBQ Logo"></a>
+                <h1>Contact Us</h1>
+    </header>
+    
+        <nav>
+           <ul>
+            <li><a href="index2.html">Home Page</a></li>
+            <li><a href="menu2.html">Menu Page</a></li>
+            <li><a href="aboutus2.html">About Us Page</a></li>
+            <li><a href="history2.html">History Page</a></li>
+            <li><a href="contactus2.html">Contact Us</a></li>
+            <li><a href="chef2.html">Our Chef</a></li>
+            <li><a href="bbq1012.html">BBQ 101</a></li>
+            </ul>
+        </nav>
+    
+    <main>
+    
+        <h2 class="center">Tell us what you think!</h2>
+        
+            <form action="" method="#post" autocomplete="on">
+                
+                <fieldset>
+                   <legend class="center">Message Box</legend>
+                    <textarea name="message" rows="4" cols="80"></textarea>
+                </fieldset>
+                
+                        <br>
+                
+            <label for="firstname">First Name</label>
+                <input type="text" id="firstname" name="firstname" required>            
+                    <label for="lastname">Last Name</label>            
+                        <input type="text" id="lastname" name="lastname" required>
+                             <label for="phone">Phone</label>            
+                                <input type="tel" id="phone" name="phone" required>
+                                    <label for="email">Email</label>            
+                                        <input type="email" id="email" name="email" autocomplete="off" required>
+                                                <br>
+                <input type="checkbox" class="margin-right" value="true">
+                     <label>Add to mailing list</label>
+                
+                <br>
+                
+            <label>How did you hear about us?</label>
+                <select name="dropdown">       
+                    <option>Please select...</option>
+                        <option value="family-or-friends">Family or friends</option>
+                            <option value="social-media">Social media</option>
+                                <option value="search-engine">Search engine</option>
+                                    <option value="radio-ad">Radio ad</option></select>
+                
+            <label class="margin-right">Do you like cheese?</label>
+                <label for="cheese-yes" checked="checked">Yes</label>
+                    <input type="radio" name="like_cheese" value="yes" id="cheese-yes">
+                        <label for="cheese-no">No</label>   
+		                  <input type="radio" name="like_cheese" value="no" id="cheese-no">       
+           
+                        <br>
+                
+            <h2>Enter your four-digit passcode, then click OK:</h2>
+
+                <input id="id1" type="number" name="four-digit-passcode" min="1000" max="9999">
+                    <button onclick="myFunction()" type="button">OK</button>
+                        <p id="passcode"></p>
+                
+        <script>
+        
+            function myFunction() {
+                var inpObj = document.getElementById("id1");
+                if (inpObj.checkValidity() == false) {
+                    document.getElementById("passcode").innerHTML =
+                        inpObj.validationMessage;
+                } else {
+                    document.getElementById("passcode").innerHTML = "Passcode Valid";
+                    }
+                }
+        </script>
+                
+        <br>    
+        
+        <input type="submit" value="Submit">
+            
+            </form>
+        
+    <p class="center">123 Oak Street, Shoreville, New Jersey | (732) 456-7890 |             info@seasmokebbq.com<br>
+            Sea Smoke Roadside BBQ&#169; 2020</p>
+        
+    </main>
+    
+    <footer>
+    
+   <p>
+        <<a href="index2.html">Home Page |</a>
+        <a href="menu2.html"> Menu Page |</a>
+        <a href="aboutus2.html"> About Us Page |</a>
+        <a href="history2.html"> History Page |</a>
+        <a href="contactus2.html"> Contact Us |</a>
+        <a href="chef2.html"> Our Chef |</a>
+        <a href="newPage2.html"> New Page</a>
+    </p>
+    
+</footer>
+    
+</body>
+</html>
+
