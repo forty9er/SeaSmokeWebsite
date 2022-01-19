@@ -116,12 +116,12 @@ nav ul li a:hover {
 }
 .faq {
     float: left;
-    width: 60%;
+    width: 55%;
 }
 .spice-recipe {
     float: right;
-    margin-top: 45px;
-    margin-right: 5%;
+    padding: 0px;
+    margin-right: 2%;
     width: 400px;
     line-height: 3em;
 }
