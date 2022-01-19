@@ -4,6 +4,8 @@
 } 
 body {
     background-image: url("images/solid-wood.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-color: #780e0e;
     font-family: Arial, Tahoma, sans-serif;
     color: #ffffff;
