@@ -6,13 +6,13 @@ body {
     background-image: url(images/solid-wood.jpg);
     background-color: #780e0e;
     font-family: Arial, Tahoma, sans-serif;
-    color: #000000;
+    color: #ffffff;
 }
 h1 {
     color: #ffffff;
 }
 header {
-    background-color: #000000;
+    background-color: rgba(0, 0, 0, 0.63);
     color: #ffffff;
     text-align: center;
     padding-top: 20px;
@@ -24,7 +24,7 @@ header {
 }
 main {
     width: 80%;
-    background-color: #ffffff;
+    background-color:  rgba(0, 0, 0, 0.63);
     float: left;
     padding: 20px 50px;
     margin-left: 10%;
