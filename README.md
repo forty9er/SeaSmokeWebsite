@@ -1,2 +1,4 @@
 # SeaSmokeWebsite
-Static Markdown web documents
+Static HTML web documents for a small business
+
+
